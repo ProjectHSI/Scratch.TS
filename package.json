@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "build": "tsc -b --verbose > TSCLog.log"
+  },
+  "dependencies": {
+    "typescript": "^4.5.2"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.10"
+  }
+}
